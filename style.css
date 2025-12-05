@@ -51,7 +51,7 @@ main {
 }
 .profile-card {
   max-width: 350px;
-  margin: auto;
+  margin: 1rem auto;
   display: flex;
   flex-direction: column;
   align-items: center;
