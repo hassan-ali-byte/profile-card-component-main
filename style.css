@@ -40,8 +40,7 @@ body {
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
   background-repeat: no-repeat no-repeat;
-  background-position: top -150px left -200px, bottom -150px right -200px;
-  background-size: contain;
+  background-position: right 52vw bottom 35vh, left 48vw top 52vh;
   font-family: var(--ff-base);
   font-weight: var(--fw-bold);
 }
@@ -147,8 +146,8 @@ main {
 }
 /* media query */
 
-@media (min-width: 525px) {
+@media (min-width: 93.75em) {
   body {
-    background-position: top -325px left -325px, bottom -325px right -325px;
+   background-position: right 66vw bottom 53vh, left 71vw top 65vh;
   }
 }
