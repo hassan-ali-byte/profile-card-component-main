@@ -28,7 +28,7 @@ Users should be able to:
 
 ## 🌐 Live Demo
 
-👉 **[View Live Demo](#)**  
+👉 **[View Live Demo](https://hassan-ali-byte.github.io/profile-card-component-main/)**  
 
 ---
 
