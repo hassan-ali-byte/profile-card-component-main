@@ -28,7 +28,7 @@ Users should be able to:
 
 ## 🌐 Live Demo
 
-👉 **[View Live Demo](https://hassan-ali-byte.github.io/profile-card-component-main/)**  
+👉 **[View Live Demo](https://profile-card-component-fm-brown.vercel.app/)**  
 
 ---
 
